@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on any intresting projekt
 
 I try to upload useful python scripts to improve programming with the RPi :)
+But currently I make programs for my Photobooth
